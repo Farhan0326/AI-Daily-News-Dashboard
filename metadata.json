@@ -1,0 +1,6 @@
+{
+  "name": "Aegis AI Research Agent",
+  "description": "Autonomous AI research agent that monitors daily breakthroughs, learns your preferences across AI coding tools, Indian tech startups, and open-source models, and synthesizes weekly intelligence briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
